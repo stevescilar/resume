@@ -33,3 +33,5 @@ function setTheme(mode){
 
     localStorage.setItem('theme',mode)
 }
+
+//done with js
